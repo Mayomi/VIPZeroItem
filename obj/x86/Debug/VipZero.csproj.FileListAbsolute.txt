@@ -1,0 +1,7 @@
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\bin\Debug\VipZero.exe
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\bin\Debug\VipZero.pdb
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\obj\x86\Debug\VipZero.Properties.Resources.resources
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\obj\x86\Debug\VipZero.csproj.GenerateResource.Cache
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\obj\x86\Debug\VipZero.exe
+C:\Users\dell-\Desktop\mc\VipZero\VipZero\obj\x86\Debug\VipZero.pdb
